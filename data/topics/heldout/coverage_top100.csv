@@ -1,0 +1,201 @@
+artifact,position,phrase,pct_docs,top_topic,lift,phrase_class
+skill,1,does not,21.47,0,2.2,topical
+skill,2,instead of,20.37,0,1.71,topical
+skill,3,read the,19.54,7,1.83,topical
+skill,4,the current,18.48,6,1.68,topical
+skill,5,run the,15.88,0,1.63,topical
+skill,6,based on,13.87,2,2.18,topical
+skill,7,ask the,13.12,7,2.27,topical
+skill,8,the project,13.09,7,1.34,cross_cutting
+skill,9,ask the user,11.22,7,2.41,topical
+skill,10,unless the,10.95,6,3.0,topical
+skill,11,check for,10.38,7,1.88,topical
+skill,12,the target,9.69,0,1.79,topical
+skill,13,write the,9.65,7,2.06,topical
+skill,14,user asks,9.45,2,1.9,topical
+skill,15,the source,9.44,0,2.15,topical
+skill,16,by default,9.36,0,1.77,topical
+skill,17,an existing,9.2,0,1.73,topical
+skill,18,the task,9.19,6,2.3,topical
+skill,19,the exact,8.83,0,1.91,topical
+skill,20,it does,8.77,0,2.5,topical
+skill,21,output format,8.65,2,2.7,topical
+skill,22,error handling,8.54,1,3.3,topical
+skill,23,the right,8.51,0,2.07,topical
+skill,24,to run,8.43,0,1.62,topical
+skill,25,identify the,8.32,2,2.0,topical
+skill,26,the output,8.31,2,1.84,topical
+skill,27,verify the,8.2,7,1.6,topical
+skill,28,wait for,8.0,7,2.56,topical
+skill,29,confirm the,7.99,7,1.7,topical
+skill,30,user explicitly,7.83,6,2.86,topical
+skill,31,best practices,7.81,1,3.16,topical
+skill,32,the repo,7.64,4,2.22,topical
+skill,33,match the,7.63,0,1.88,topical
+skill,34,the default,7.63,0,2.48,topical
+skill,35,source of,7.55,0,1.74,topical
+skill,36,user wants,7.52,2,2.29,topical
+skill,37,is missing,7.52,0,1.7,topical
+skill,38,to avoid,7.44,1,1.58,topical
+skill,39,the code,7.41,0,2.14,topical
+skill,40,stop and,7.4,7,2.48,topical
+skill,41,tell the,7.39,7,2.22,topical
+skill,42,the actual,7.37,0,1.55,topical
+skill,43,before writing,7.25,7,1.43,cross_cutting
+skill,44,the final,7.25,6,1.84,topical
+skill,45,the user asks,7.11,6,1.9,topical
+skill,46,the relevant,7.03,6,2.3,topical
+skill,47,and ask,7.01,7,2.46,topical
+skill,48,the user explicitly,7.01,6,3.05,topical
+skill,49,to create,6.97,7,1.6,topical
+skill,50,check if,6.94,7,2.33,topical
+skill,51,check the,6.83,0,2.01,topical
+skill,52,of truth,6.71,0,1.67,topical
+skill,53,unless the user,6.66,6,3.26,topical
+skill,54,in order,6.63,0,1.96,topical
+skill,55,ask for,6.63,7,1.8,topical
+skill,56,source of truth,6.56,0,1.68,topical
+skill,57,edge cases,6.53,1,2.52,topical
+skill,58,asks for,6.52,6,2.36,topical
+skill,59,default to,6.52,0,1.36,cross_cutting
+skill,60,list of,6.51,0,1.73,topical
+skill,61,the existing,6.48,6,1.67,topical
+skill,62,update the,6.42,4,1.51,topical
+skill,63,tell the user,6.38,7,2.38,topical
+skill,64,if needed,6.28,1,1.37,cross_cutting
+skill,65,look for,6.22,7,1.88,topical
+skill,66,create the,6.21,7,1.99,topical
+skill,67,to confirm,6.17,7,2.18,topical
+skill,68,to verify,6.04,7,1.72,topical
+skill,69,start with,5.94,2,1.68,topical
+skill,70,apply the,5.94,7,1.93,topical
+skill,71,inside the,5.93,0,3.02,topical
+skill,72,it does not,5.88,0,2.66,topical
+skill,73,does the,5.86,0,2.29,topical
+skill,74,before proceeding,5.81,7,3.25,topical
+skill,75,the main,5.78,0,1.52,topical
+skill,76,the result,5.73,0,2.31,topical
+skill,77,the user wants,5.73,2,2.1,topical
+skill,78,depends on,5.72,0,2.24,topical
+skill,79,report the,5.71,7,2.13,topical
+skill,80,to understand,5.52,7,1.86,topical
+skill,81,at time,5.48,0,2.01,topical
+skill,82,claude code,5.47,5,1.66,topical
+skill,83,the change,5.46,4,1.88,topical
+skill,84,wants to,5.45,2,2.48,topical
+skill,85,is available,5.3,6,1.58,topical
+skill,86,the script,5.22,0,2.38,topical
+skill,87,add to,5.21,3,1.41,cross_cutting
+skill,88,the real,5.2,0,3.44,topical
+skill,89,present the,5.19,7,3.06,topical
+skill,90,fall back,5.18,0,2.08,topical
+skill,91,the primary,5.16,2,1.52,topical
+skill,92,quick reference,5.14,1,1.66,topical
+skill,93,run to,5.12,7,1.57,topical
+skill,94,to read,5.12,0,1.98,topical
+skill,95,read and,5.11,7,1.74,topical
+skill,96,to add,5.11,0,1.47,cross_cutting
+skill,97,the canonical,5.09,0,2.13,topical
+skill,98,the original,5.01,0,2.17,topical
+skill,99,matches the,4.98,0,2.1,topical
+skill,100,fall back to,4.98,0,2.01,topical
+context,1,this repository,21.16,4,1.58,topical
+context,2,does not,19.2,0,2.2,topical
+context,3,claude code,19.0,5,1.66,topical
+context,4,instead of,18.5,0,1.71,topical
+context,5,in this repository,15.05,5,1.85,topical
+context,6,the project,14.64,7,1.34,cross_cutting
+context,7,the current,14.15,6,1.68,topical
+context,8,live in,14.11,0,2.35,topical
+context,9,code in,13.48,5,1.93,topical
+context,10,read the,13.43,7,1.83,topical
+context,11,when working,13.12,5,2.04,topical
+context,12,run the,12.88,0,1.63,topical
+context,13,working with,12.63,5,2.08,topical
+context,14,source of,11.9,0,1.74,topical
+context,15,with code,11.65,5,2.15,topical
+context,16,code when,11.58,5,2.18,topical
+context,17,file provides,11.56,5,2.32,topical
+context,18,lives in,11.53,0,2.82,topical
+context,19,this file provides,11.51,5,2.33,topical
+context,20,project overview,11.44,1,2.04,topical
+context,21,when working with,11.36,5,2.28,topical
+context,22,of truth,11.27,0,1.67,topical
+context,23,provides guidance,11.16,5,2.34,topical
+context,24,guidance to,11.07,5,2.35,topical
+context,25,file provides guidance,11.06,5,2.38,topical
+context,26,code in this,11.01,5,2.33,topical
+context,27,the code,10.97,0,2.14,topical
+context,28,source of truth,10.97,0,1.68,topical
+context,29,provides guidance to,10.93,5,2.39,topical
+context,30,code when working,10.69,5,2.39,topical
+context,31,with code in,10.65,5,2.4,topical
+context,32,working with code,10.65,5,2.4,topical
+context,33,claude ai,10.52,5,2.35,topical
+context,34,to claude code,10.46,5,2.39,topical
+context,35,ai code,10.46,5,2.39,topical
+context,36,this project,10.4,1,1.34,cross_cutting
+context,37,error handling,10.3,1,3.3,topical
+context,38,code claude,10.28,5,2.39,topical
+context,39,guidance to claude,10.23,5,2.42,topical
+context,40,ai code when,10.22,5,2.43,topical
+context,41,claude code claude,10.21,5,2.41,topical
+context,42,claude ai code,10.13,5,2.41,topical
+context,43,code claude ai,10.12,5,2.42,topical
+context,44,this repo,10.03,4,2.45,topical
+context,45,the repo,9.85,4,2.22,topical
+context,46,by default,9.44,0,1.77,topical
+context,47,the source,9.42,0,2.15,topical
+context,48,the app,9.09,0,1.95,topical
+context,49,not add,9.01,6,2.46,topical
+context,50,do not add,8.73,6,2.54,topical
+context,51,unit tests,8.7,1,2.83,topical
+context,52,unless the,8.44,6,3.0,topical
+context,53,the existing,8.24,6,1.67,topical
+context,54,based on,7.87,2,2.18,topical
+context,55,environment variables,7.69,5,2.87,topical
+context,56,the relevant,7.65,6,2.3,topical
+context,57,the task,7.61,6,2.3,topical
+context,58,project structure,7.53,1,2.45,topical
+context,59,the repository,7.52,6,2.74,topical
+context,60,adding new,7.37,1,1.92,topical
+context,61,the default,7.33,0,2.48,topical
+context,62,entry point,7.31,0,1.62,topical
+context,63,to run,7.18,0,1.62,topical
+context,64,inside the,7.07,0,3.02,topical
+context,65,the root,7.03,0,2.1,topical
+context,66,next js,6.97,3,3.31,topical
+context,67,it does,6.92,0,2.5,topical
+context,68,the main,6.9,0,1.52,topical
+context,69,to avoid,6.73,1,1.58,topical
+context,70,update the,6.71,4,1.51,topical
+context,71,never commit,6.68,4,2.76,topical
+context,72,the real,6.67,0,3.44,topical
+context,73,the change,6.5,4,1.88,topical
+context,74,the exact,6.48,0,1.91,topical
+context,75,tests for,6.37,1,2.72,topical
+context,76,run and,6.29,0,1.74,topical
+context,77,the shared,6.28,0,2.82,topical
+context,78,the test,6.27,0,2.58,topical
+context,79,the single,6.14,0,2.76,topical
+context,80,check for,5.9,7,1.88,topical
+context,81,before writing,5.87,7,1.43,cross_cutting
+context,82,when adding,5.86,1,1.6,topical
+context,83,tailwind css,5.84,3,5.56,topical
+context,84,code and,5.82,0,1.71,topical
+context,85,add new,5.79,3,1.44,cross_cutting
+context,86,best practices,5.79,1,3.16,topical
+context,87,defined in,5.77,3,2.0,topical
+context,88,and run,5.75,0,1.82,topical
+context,89,match the,5.66,0,1.88,topical
+context,90,business logic,5.66,1,3.46,topical
+context,91,for ai,5.66,4,1.48,cross_cutting
+context,92,repository project,5.6,5,2.47,topical
+context,93,runs the,5.58,0,3.57,topical
+context,94,code style,5.55,1,3.65,topical
+context,95,an existing,5.49,0,1.73,topical
+context,96,tests and,5.48,6,2.67,topical
+context,97,this repository project,5.46,5,2.51,topical
+context,98,repo root,5.39,4,2.29,topical
+context,99,check the,5.39,0,2.01,topical
+context,100,an explicit,5.36,0,2.37,topical

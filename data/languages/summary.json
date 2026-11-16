@@ -1,0 +1,44 @@
+{
+ "skills": {
+  "mention_texts": 1445,
+  "mention_expected": 1445,
+  "reference_texts": 59466,
+  "productivity": {
+   "en": 90.87,
+   "tr": 5.05,
+   "pt": 1.38,
+   "ja": 0.69,
+   "zh": 0.55,
+   "non_english": 9.13
+  },
+  "corpus": {
+   "en": 86.06,
+   "zh": 5.86,
+   "ja": 1.72,
+   "de": 1.47,
+   "ko": 1.14,
+   "non_english": 13.94
+  }
+ },
+ "context": {
+  "mention_texts": 636,
+  "mention_expected": 636,
+  "reference_texts": 54818,
+  "productivity": {
+   "en": 90.25,
+   "pt": 2.99,
+   "es": 1.89,
+   "fr": 1.73,
+   "ja": 1.73,
+   "non_english": 9.75
+  },
+  "corpus": {
+   "en": 83.04,
+   "zh": 4.39,
+   "ja": 2.32,
+   "pt": 1.94,
+   "ko": 1.89,
+   "non_english": 16.96
+  }
+ }
+}

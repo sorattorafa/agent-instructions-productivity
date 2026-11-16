@@ -1,0 +1,9 @@
+topic,terms,pct_skills,pct_context,umass
+0,"runs, real, reads, line, row, inside, rule, live, writes, names, value, plus",7.56,12.57,-1.104
+1,"testing, patterns, functions, logic, error, types, handling, type, documentation, error handling, structure, integration",10.32,16.32,-1.11
+2,"analysis, content, specific, research, search, product, questions, metrics, time, format, quality, technical",22.8,6.66,-1.361
+3,"css, components, component, tailwind, page, color, react, layout, theme, dark, design, colors",7.39,11.17,-1.282
+4,"commit, branch, commits, github, push, git, repo, release, version, repository, pull, commands",6.04,13.17,-1.065
+5,"server, auth, client, app, mcp, backend, environment, service, database, access, token, endpoint",17.17,18.52,-1.287
+6,"behavior, evidence, preserve, unless, explicitly, prefer, explicit, contract, treat, runtime, repository, local",9.59,12.22,-1.142
+7,"phase, plan, task, review, report, ask, fix, stop, tasks, issue, skip, findings",19.15,9.37,-1.203

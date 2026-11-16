@@ -1,0 +1,9 @@
+{
+ "model": "gemini-3.5-flash",
+ "temperature": 0,
+ "batch": {
+  "precision": 43,
+  "recall": 10
+ },
+ "date": "2026-11-16"
+}

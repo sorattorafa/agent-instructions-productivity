@@ -1,0 +1,7 @@
+measure,repos
+repositories with skills,282191.0
+repositories with context files,1500228.0
+repositories with both,139002.0
+repositories with either,1643417.0
+pct of skill repositories that also have a context file,49.26
+pct of context-file repositories that also have a skill,9.27

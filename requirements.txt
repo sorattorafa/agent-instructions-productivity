@@ -1,0 +1,11 @@
+# Versions used for the results in the paper (Python 3.13)
+duckdb==2.0.0
+pandas==2.2.3
+numpy==2.2.3
+scikit-learn==1.7.2
+scipy==1.15.2
+pyarrow==26.0.1
+openpyxl==3.1.5
+huggingface_hub==2.4.0
+py3langid==0.4.0
+matplotlib==3.10.1

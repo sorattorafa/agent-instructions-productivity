@@ -1,0 +1,46 @@
+{
+ "fit_reproduction": 1.0,
+ "transform_fit_agreement": 1.0,
+ "raw": {
+  "context": 232181,
+  "skill": 236300
+ },
+ "context_without_valid_occurrence": 11791,
+ "short": {
+  "context": 21517,
+  "skill": 18137
+ },
+ "non_english": {
+  "context": 29764,
+  "skill": 29820
+ },
+ "near_duplicates_or_in_fit": {
+  "context": 6773,
+  "skill": 21990
+ },
+ "over_owner_cap": {
+  "context": 6965,
+  "skill": 55082
+ },
+ "heldout_final": {
+  "context": 155371,
+  "skill": 111271
+ },
+ "max_diff_pp": 1.47,
+ "shared_top30_by_topic": {
+  "0": 28,
+  "1": 28,
+  "2": 22,
+  "3": 28,
+  "4": 26,
+  "5": 27,
+  "6": 25,
+  "7": 28
+ },
+ "coverage": {
+  "context_cross_cutting": 5,
+  "context_topical": 95,
+  "skill_cross_cutting": 6,
+  "skill_topical": 94
+ }
+}

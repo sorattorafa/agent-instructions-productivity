@@ -1,0 +1,15 @@
+target,repos,repos_with_skills,pct_with_skills
+AGENTS.md,738440,79357,10.75
+CLAUDE.md,696188,75805,10.89
+copilot-instructions.md,160861,13917,8.65
+.cursor/rules,63210,6999,11.07
+.claude/agents,53839,14906,27.69
+.claude/commands,45450,11611,25.55
+GEMINI.md,44360,6879,15.51
+.github/instructions,27769,5335,19.21
+.cursorrules,25810,2222,8.61
+.claude/rules,20089,6650,33.1
+.windsurfrules,5133,618,12.04
+.clinerules,4249,460,10.83
+memory-bank,3884,226,5.82
+CLAUDE.local.md,658,186,28.27

@@ -1,0 +1,42 @@
+{
+ "raw_sample": {
+  "context": 54818,
+  "skill": 59466
+ },
+ "short": {
+  "context": 5302,
+  "skill": 4601
+ },
+ "non_english": {
+  "context": 7445,
+  "skill": 7336
+ },
+ "near_duplicates": {
+  "context": 860,
+  "skill": 2518
+ },
+ "over_owner_cap": {
+  "context": 874,
+  "skill": 12411
+ },
+ "after_filters": {
+  "context": 40337,
+  "skill": 32600
+ },
+ "balanced_per_artifact": 32600,
+ "matrix": [
+  65200,
+  50000
+ ],
+ "k": 8,
+ "min_stability_cosine_by_topic": {
+  "0": 1.0,
+  "1": 1.0,
+  "2": 0.999,
+  "3": 1.0,
+  "4": 0.998,
+  "5": 0.999,
+  "6": 0.999,
+  "7": 0.999
+ }
+}

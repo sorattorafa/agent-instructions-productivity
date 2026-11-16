@@ -1,0 +1,241 @@
+topic,position,phrase,pct_in_topic,pct_outside,in_fit_top30
+0,1,does not,44.24,17.25,True
+0,2,the real,20.81,4.28,True
+0,3,lives in,24.25,6.72,True
+0,4,reads the,14.35,1.89,True
+0,5,inside the,19.92,4.99,True
+0,6,holds the,12.62,1.49,True
+0,7,keeps the,13.27,1.84,True
+0,8,by hand,13.96,2.17,True
+0,9,runs the,15.47,2.99,True
+0,10,carries the,10.81,1.06,True
+0,11,live in,24.05,8.55,True
+0,12,names the,10.75,1.25,True
+0,13,the rest,14.0,2.78,True
+0,14,plus the,12.31,2.02,True
+0,15,it does,19.23,6.3,True
+0,16,the live,12.92,2.46,True
+0,17,instead of,32.88,17.64,True
+0,18,the default,18.47,6.12,True
+0,19,no longer,12.72,2.6,True
+0,20,on purpose,8.28,0.76,True
+0,21,the run,10.43,1.64,True
+0,22,the rule,10.97,1.89,True
+0,23,the single,15.11,4.32,True
+0,24,the row,7.46,0.61,True
+0,25,the source,20.3,8.12,True
+0,26,the code,20.34,8.18,True
+0,27,the model,13.1,3.24,False
+0,28,come from,13.04,3.3,True
+0,29,the gate,9.76,1.56,True
+0,30,the wrong,10.49,1.91,False
+1,1,error handling,31.6,6.16,True
+1,2,best practices,20.96,4.41,True
+1,3,business logic,15.47,2.77,True
+1,4,naming conventions,13.41,2.12,True
+1,5,unit tests,17.5,4.43,True
+1,6,code style,13.08,2.12,True
+1,7,code quality,11.4,1.92,True
+1,8,integration tests,12.38,2.5,True
+1,9,dependency injection,6.94,0.55,True
+1,10,tests for,13.32,3.6,True
+1,11,edge cases,13.42,4.08,True
+1,12,type safety,6.81,0.75,True
+1,13,project structure,12.6,3.98,True
+1,14,proper error,5.06,0.29,True
+1,15,type hints,6.52,0.81,True
+1,16,test coverage,7.92,1.46,True
+1,17,for complex,8.31,1.74,True
+1,18,single responsibility,4.74,0.31,True
+1,19,project overview,13.91,5.7,True
+1,20,proper error handling,4.15,0.22,True
+1,21,state management,8.79,2.29,True
+1,22,error messages,8.39,2.13,True
+1,23,use descriptive,5.22,0.59,True
+1,24,functions and,6.19,0.99,False
+1,25,complex logic,4.15,0.27,True
+1,26,handling use,4.23,0.29,True
+1,27,external dependencies,6.03,0.94,False
+1,28,all tests,7.13,1.51,True
+1,29,implement proper,3.87,0.22,True
+1,30,error handling use,3.56,0.16,True
+2,1,based on,22.63,8.61,True
+2,2,output format,14.46,4.05,True
+2,3,over time,5.99,1.04,True
+2,4,lead with,5.98,1.07,True
+2,5,focus on,8.71,3.21,True
+2,6,user wants,8.37,2.98,True
+2,7,identify the,9.65,4.12,True
+2,8,the topic,4.04,0.56,True
+2,9,does this,7.22,2.41,True
+2,10,user asks,10.08,4.63,True
+2,11,wants to,6.79,2.15,False
+2,12,what does,5.11,1.16,False
+2,13,the question,5.77,1.58,True
+2,14,be specific,4.85,1.07,True
+2,15,the specific,7.52,2.86,True
+2,16,the output,9.62,4.59,True
+2,17,social media,2.91,0.27,True
+2,18,pain points,2.24,0.1,True
+2,19,target audience,2.74,0.22,True
+2,20,ask what,4.56,1.07,True
+2,21,most important,4.43,1.0,True
+2,22,search for,6.56,2.41,False
+2,23,executive summary,2.89,0.31,True
+2,24,does the,8.01,3.57,True
+2,25,web search,3.77,0.68,False
+2,26,the content,5.62,1.84,False
+2,27,the company,2.59,0.24,True
+2,28,the answer,6.15,2.25,False
+2,29,one sentence,4.89,1.4,False
+2,30,number of,5.89,2.09,False
+3,1,tailwind css,20.69,1.89,True
+3,2,design system,15.78,1.13,True
+3,3,dark mode,11.68,0.55,True
+3,4,css variables,10.24,0.35,True
+3,5,design tokens,10.78,0.54,True
+3,6,css custom,7.57,0.21,True
+3,7,custom properties,7.84,0.26,True
+3,8,css custom properties,6.85,0.17,True
+3,9,next js,16.7,3.79,True
+3,10,interactive elements,7.33,0.27,True
+3,11,app router,11.28,1.57,True
+3,12,the component,10.06,1.25,True
+3,13,ui components,11.13,1.76,True
+3,14,semantic html,6.42,0.29,True
+3,15,color palette,6.05,0.25,True
+3,16,the page,13.08,2.98,True
+3,17,utility classes,6.59,0.35,True
+3,18,styling tailwind,7.02,0.47,True
+3,19,on mobile,6.34,0.37,True
+3,20,js app,9.57,1.48,True
+3,21,google fonts,5.05,0.15,True
+3,22,next js app,9.42,1.44,True
+3,23,responsive design,6.74,0.49,False
+3,24,js app router,8.98,1.26,True
+3,25,keyboard navigation,5.9,0.31,True
+3,26,shadcn ui,7.95,0.91,True
+3,27,wcag aa,5.62,0.29,True
+3,28,use tailwind,5.36,0.24,True
+3,29,styling tailwind css,5.92,0.41,False
+3,30,use css,4.71,0.17,True
+4,1,pull request,16.87,1.89,True
+4,2,conventional commits,13.89,1.43,True
+4,3,commit messages,15.63,2.26,True
+4,4,commit message,12.22,1.61,True
+4,5,the pr,13.67,2.69,True
+4,6,the commit,11.39,1.81,True
+4,7,the branch,11.31,1.92,True
+4,8,pull requests,9.53,1.18,True
+4,9,the release,9.62,1.32,True
+4,10,the repo,19.81,7.64,True
+4,11,this repo,17.24,5.84,True
+4,12,push to,10.73,2.08,True
+4,13,github release,6.77,0.52,True
+4,14,commit pull,5.19,0.18,True
+4,15,commit pull request,5.02,0.18,True
+4,16,pull request guidelines,5.06,0.19,True
+4,17,request guidelines,5.06,0.2,True
+4,18,test and development,5.0,0.19,True
+4,19,coding style naming,5.02,0.2,True
+4,20,structure module organization,4.93,0.18,True
+4,21,project structure module,4.95,0.19,True
+4,22,guidelines project structure,4.71,0.17,True
+4,23,repository guidelines,5.53,0.34,False
+4,24,repository guidelines project,4.78,0.19,True
+4,25,commit and,8.7,1.48,True
+4,26,style naming conventions,4.93,0.22,False
+4,27,never commit,12.19,3.5,True
+4,28,the version,8.77,1.6,True
+4,29,structure module,4.99,0.27,False
+4,30,and development commands,5.04,0.28,False
+5,1,environment variables,17.43,3.57,True
+5,2,api key,11.05,1.96,True
+5,3,provides guidance to,15.22,4.42,True
+5,4,file provides guidance,15.31,4.5,True
+5,5,this file provides,15.62,4.75,True
+5,6,guidance to,15.37,4.59,True
+5,7,provides guidance,15.45,4.65,True
+5,8,file provides,15.66,4.8,True
+5,9,with code in,14.93,4.32,True
+5,10,working with code,14.93,4.32,True
+5,11,code when working,14.9,4.33,True
+5,12,ai code when,14.48,4.08,True
+5,13,guidance to claude,14.44,4.1,True
+5,14,to claude code,14.74,4.3,True
+5,15,ai code,14.68,4.28,True
+5,16,when working with,15.58,4.9,True
+5,17,code in this,15.11,4.59,True
+5,18,claude code claude,14.38,4.13,True
+5,19,code claude ai,14.26,4.07,True
+5,20,claude ai code,14.26,4.07,True
+5,21,code claude,14.44,4.19,True
+5,22,claude ai,14.74,4.42,True
+5,23,working with,16.73,6.15,True
+5,24,code when,15.45,5.27,True
+5,25,with code,15.68,5.43,True
+5,26,when working,16.73,6.31,False
+5,27,env vars,9.61,1.85,True
+5,28,code in,16.77,6.89,False
+5,29,claude code,22.13,11.43,True
+5,30,in this repository,16.61,7.27,False
+6,1,unless the,28.47,7.03,True
+6,2,the smallest,14.13,1.78,True
+6,3,preserve the,12.67,1.77,True
+6,4,unless the user,15.57,3.38,True
+6,5,inspect the,12.04,1.77,True
+6,6,the user explicitly,14.82,3.57,True
+6,7,before changing,11.82,2.02,True
+6,8,not claim,8.58,0.8,True
+6,9,user explicitly,15.25,4.05,True
+6,10,the repository,15.73,4.46,True
+6,11,do not claim,7.84,0.65,True
+6,12,the task,19.05,6.88,True
+6,13,before editing,10.39,1.65,True
+6,14,do not add,16.42,5.19,True
+6,15,not add,16.74,5.52,True
+6,16,evidence and,8.0,0.9,True
+6,17,the relevant,17.02,6.15,True
+6,18,the current,26.81,14.56,True
+6,19,the requested,8.35,1.3,True
+6,20,behavior and,8.23,1.26,True
+6,21,explicitly asks,9.94,2.14,True
+6,22,preserve unrelated,4.13,0.12,False
+6,23,unless explicitly,9.93,2.49,True
+6,24,tests and,11.14,3.28,True
+6,25,explicitly requested,7.63,1.39,True
+6,26,behavior changes,6.59,0.93,False
+6,27,and preserve,5.21,0.45,False
+6,28,user explicitly asks,8.4,1.85,True
+6,29,not silently,7.66,1.48,False
+6,30,merely to,3.78,0.15,False
+7,1,acceptance criteria,12.71,1.89,True
+7,2,the plan,13.73,2.6,True
+7,3,read the,29.29,13.91,True
+7,4,proceed to,9.29,1.04,True
+7,5,ask the,18.31,6.47,True
+7,6,before proceeding,11.77,2.34,True
+7,7,wait for,15.32,4.53,True
+7,8,ask the user,15.51,5.01,True
+7,9,stop and,14.44,4.49,True
+7,10,and ask,11.99,3.77,True
+7,11,the task,16.33,7.01,True
+7,12,in parallel,9.93,2.58,True
+7,13,present the,8.55,1.9,True
+7,14,the issue,9.13,2.27,True
+7,15,not proceed,6.3,0.85,True
+7,16,write the,13.86,5.61,True
+7,17,and stop,8.89,2.2,True
+7,18,do not proceed,5.99,0.8,True
+7,19,check for,14.6,6.71,True
+7,20,the spec,8.17,2.1,True
+7,21,check if,10.3,3.51,True
+7,22,the orchestrator,6.6,1.27,True
+7,23,each task,4.99,0.57,True
+7,24,the current,23.3,14.81,True
+7,25,the review,6.97,1.56,False
+7,26,root cause,7.91,2.14,True
+7,27,run the,21.19,13.03,True
+7,28,and report,9.65,3.48,False
+7,29,file paths,8.01,2.37,True
+7,30,to phase,4.31,0.47,True

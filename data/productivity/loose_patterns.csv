@@ -1,0 +1,25 @@
+corpus,expression,texts,pct,n_corpus
+skills,dora,1912,0.1018,1877981
+skills,mttr,2434,0.1296,1877981
+skills,kpi,26193,1.3947,1877981
+skills,deployment_frequency,1413,0.0752,1877981
+skills,lead_time,3125,0.1664,1877981
+skills,cycle_time,2560,0.1363,1877981
+skills,change_failure,906,0.0482,1877981
+skills,developer_experience,6253,0.333,1877981
+skills,developer_productivity,1414,0.0753,1877981
+skills,velocity,1914,0.1019,1877981
+skills,any,41582,2.2142,1877981
+skills,strict texts also matched here,1354,,1877981
+context,dora,980,0.035,2802199
+context,mttr,1277,0.0456,2802199
+context,kpi,18977,0.6772,2802199
+context,deployment_frequency,571,0.0204,2802199
+context,lead_time,2083,0.0743,2802199
+context,cycle_time,1210,0.0432,2802199
+context,change_failure,455,0.0162,2802199
+context,developer_experience,8697,0.3104,2802199
+context,developer_productivity,1643,0.0586,2802199
+context,velocity,1617,0.0577,2802199
+context,any,33993,1.2131,2802199
+context,strict texts also matched here,605,,2802199

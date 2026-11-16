@@ -1,0 +1,37 @@
+# Large intermediates, regenerable with the scripts (see README, "What is not in the repository")
+data/skills/sample/
+data/skills/heldout/
+data/skills/markers/
+data/context/sample/
+data/context/heldout/
+data/context/markers/
+data/collection/occurrences.parquet
+data/context_occurrences.parquet
+data/reuse/skills_occurrences.parquet
+data/languages/texts_*.parquet
+# local state and build products
+collector/state/
+logs/
+__pycache__/
+*.pyc
+.DS_Store
+paper/*.aux
+paper/*.log
+paper/*.out
+# never commit credentials or local settings
+.env
+local.env
+# withheld during double-blind review
+paper/paper.tex
+paper/paper.pdf
+paper/paper.xdv
+# public release of the dataset, built by export_dataset.py (large)
+release/
+# local convenience copy of the rater guide in Portuguese
+validation/GUIA_AVALIADOR.pt.md
+
+# sheets for human raters (not used in the paper) and the per-agent copies of the items
+validation/RATER_GUIDE.md
+scripts/validation_sheets.py
+scripts/validation_results.py
+validation/llm/chunks/

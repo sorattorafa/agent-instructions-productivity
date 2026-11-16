@@ -1,0 +1,8 @@
+{
+ "distinct_texts": 2802130,
+ "texts_with_email": 83647,
+ "emails": 153164,
+ "texts_with_secret": 286,
+ "secrets": 370,
+ "placeholder": "<redacted>"
+}

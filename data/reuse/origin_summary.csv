@@ -1,0 +1,21 @@
+artifact,origin_class,evidence,contents,repos
+"(context, all)",empty,rule header with no content,1,470
+"(context, all)",generated,claude-mem,1,202
+"(context, all)",other,,2,413
+"(context, all)",platform,Angular,2,401
+"(context, all)",platform,Astro,1,507
+"(context, all)",platform,Bun,3,839
+"(context, all)",platform,Cloudflare Workers,1,192
+"(context, all)",platform,Expo,3,1192
+"(context, all)",platform,Figma Make,1,396
+"(context, all)",platform,HyperFrames,1,231
+"(context, all)",platform,Laravel Boost,1,639
+"(context, all)",platform,Lovable,1,679
+"(context, all)",platform,Next.js,4,2415
+"(context, all)",platform,shadcn,2,376
+"(context, all)",pointer,short and refers to another context file,6,2550
+SKILL.md,collection,anthropics/skills,19,9835
+SKILL.md,collection,mattpocock/skills,1,420
+SKILL.md,collection,obra/superpowers,6,3575
+SKILL.md,collection,vercel-labs/agent-skills,1,359
+SKILL.md,other,,3,1338

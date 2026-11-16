@@ -1,0 +1,17 @@
+artifact,rank,phrase,pct_skills,pct_context
+skill,1,output format,8.9,3.3
+skill,2,quick reference,5.5,2.1
+skill,3,common mistakes,3.0,0.5
+skill,4,red flags,2.2,0.3
+skill,5,quick start,4.1,1.5
+skill,6,failure modes,3.7,1.2
+skill,7,decision tree,2.0,0.4
+skill,8,edge cases,7.0,4.5
+context,1,development commands,0.0,4.4
+context,2,project structure,1.8,7.7
+context,3,tailwind css,0.8,5.7
+context,4,code style,0.8,5.6
+context,5,unit tests,2.6,8.6
+context,6,react typescript,0.3,3.0
+context,7,entry point,2.6,7.1
+context,8,commit messages,1.5,5.2

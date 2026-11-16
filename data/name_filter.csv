@@ -1,0 +1,15 @@
+target,before,after,removed
+AGENTS.md,1205684,1062208,143476
+CLAUDE.md,917265,866650,50615
+.claude/agents,310266,306198,4068
+.claude/commands,268833,268599,234
+.cursor/rules,230546,229964,582
+copilot-instructions.md,162138,161476,662
+.claude/rules,111470,111444,26
+.github/instructions,88760,88696,64
+GEMINI.md,73691,55083,18608
+memory-bank,40351,40328,23
+.cursorrules,36550,33843,2707
+.windsurfrules,6048,5654,394
+.clinerules,5465,4698,767
+CLAUDE.local.md,1119,778,341

@@ -1,0 +1,17 @@
+artifact,rank,phrase,skills,pct_skills,context,pct_context,sample_pct_skills,sample_pct_context
+skill,1,output format,222591,11.85,77778,2.78,8.9,3.3
+skill,2,quick reference,108067,5.75,53012,1.89,5.5,2.1
+skill,3,common mistakes,46988,2.5,12550,0.45,3.0,0.5
+skill,4,red flags,38110,2.03,7855,0.28,2.2,0.3
+skill,5,quick start,96964,5.16,38521,1.37,4.1,1.5
+skill,6,failure modes,59580,3.17,28578,1.02,3.7,1.2
+skill,7,decision tree,34861,1.86,9545,0.34,2.0,0.4
+skill,8,edge cases,116320,6.19,108194,3.86,7.0,4.5
+context,1,development commands,889,0.05,96547,3.45,0.0,4.4
+context,2,project structure,34615,1.84,175851,6.28,1.8,7.7
+context,3,tailwind css,13978,0.74,158455,5.65,0.8,5.7
+context,4,code style,14494,0.77,130788,4.67,0.8,5.6
+context,5,unit tests,41642,2.22,201226,7.18,2.6,8.6
+context,6,react typescript,5573,0.3,84984,3.03,0.3,3.0
+context,7,entry point,41782,2.22,165992,5.92,2.6,7.1
+context,8,commit messages,21313,1.13,118273,4.22,1.5,5.2

@@ -1,0 +1,241 @@
+topic,position,phrase,pct_in_topic,pct_outside
+0,1,does not,43.77,17.52
+0,2,lives in,23.03,6.02
+0,3,the real,19.69,4.2
+0,4,reads the,13.79,1.7
+0,5,runs the,15.28,2.71
+0,6,carries the,10.8,0.96
+0,7,inside the,19.25,4.97
+0,8,holds the,11.48,1.32
+0,9,live in,22.04,7.38
+0,10,plus the,12.62,1.94
+0,11,keeps the,12.07,1.72
+0,12,by hand,12.6,2.03
+0,13,it does,19.17,6.44
+0,14,names the,9.89,1.22
+0,15,the default,18.5,6.09
+0,16,the rule,11.14,1.87
+0,17,the rest,12.95,2.79
+0,18,the live,11.76,2.32
+0,19,no longer,12.12,2.52
+0,20,the shared,13.96,3.69
+0,21,the single,14.83,4.24
+0,22,instead of,32.25,18.19
+0,23,the row,7.35,0.6
+0,24,the run,9.98,1.61
+0,25,the gate,9.86,1.56
+0,26,come from,12.54,3.02
+0,27,on purpose,7.38,0.67
+0,28,the source,19.87,8.21
+0,29,the code,19.26,7.9
+0,30,the second,8.03,1.0
+1,1,error handling,31.33,6.3
+1,2,best practices,23.01,5.4
+1,3,business logic,15.89,2.59
+1,4,unit tests,16.75,3.87
+1,5,naming conventions,12.88,2.08
+1,6,code style,12.06,1.84
+1,7,integration tests,12.35,2.24
+1,8,code quality,11.09,1.79
+1,9,dependency injection,7.21,0.5
+1,10,tests for,13.31,3.28
+1,11,proper error,5.02,0.24
+1,12,edge cases,13.6,4.52
+1,13,type safety,6.71,0.77
+1,14,type hints,6.16,0.66
+1,15,project structure,11.71,3.69
+1,16,proper error handling,4.19,0.18
+1,17,state management,8.96,2.08
+1,18,test coverage,7.64,1.4
+1,19,single responsibility,4.53,0.27
+1,20,for complex,8.25,1.98
+1,21,patterns and,9.1,2.52
+1,22,use descriptive,5.34,0.61
+1,23,error handling use,3.48,0.12
+1,24,project overview,12.2,4.77
+1,25,handling use,4.07,0.25
+1,26,complex logic,4.1,0.26
+1,27,implement proper,3.96,0.24
+1,28,error messages,8.32,2.21
+1,29,all tests,6.83,1.4
+1,30,error handling and,4.72,0.48
+2,1,based on,24.47,9.16
+2,2,output format,15.17,4.5
+2,3,over time,6.31,1.05
+2,4,lead with,6.06,1.19
+2,5,focus on,9.32,3.51
+2,6,identify the,10.22,4.42
+2,7,executive summary,3.42,0.31
+2,8,related skills,6.04,1.68
+2,9,the topic,3.94,0.58
+2,10,most important,4.78,0.99
+2,11,the specific,7.72,2.94
+2,12,pain points,2.46,0.12
+2,13,target audience,2.88,0.23
+2,14,user wants,8.12,3.38
+2,15,user asks,10.28,5.14
+2,16,success metrics,3.32,0.39
+2,17,case studies,2.33,0.11
+2,18,the company,2.75,0.21
+2,19,brand voice,2.16,0.08
+2,20,be specific,4.92,1.19
+2,21,social proof,2.17,0.09
+2,22,social media,2.91,0.28
+2,23,the question,5.55,1.65
+2,24,does this,6.95,2.63
+2,25,the market,2.18,0.1
+2,26,this week,2.57,0.2
+2,27,ask what,4.71,1.17
+2,28,does the,8.09,3.66
+2,29,the audience,2.76,0.27
+2,30,the output,9.66,4.99
+3,1,tailwind css,19.66,1.57
+3,2,design system,16.15,1.05
+3,3,dark mode,12.45,0.47
+3,4,css variables,10.05,0.27
+3,5,design tokens,11.13,0.5
+3,6,interactive elements,7.72,0.25
+3,7,next js,16.62,3.59
+3,8,css custom,6.68,0.15
+3,9,custom properties,6.99,0.21
+3,10,ui components,11.62,1.57
+3,11,css custom properties,6.08,0.14
+3,12,the component,10.53,1.31
+3,13,app router,10.47,1.44
+3,14,the page,13.03,2.81
+3,15,keyboard navigation,6.17,0.27
+3,16,color palette,6.02,0.26
+3,17,wcag aa,6.07,0.28
+3,18,on mobile,6.46,0.37
+3,19,semantic html,6.08,0.29
+3,20,use tailwind,5.62,0.24
+3,21,use css,5.03,0.15
+3,22,google fonts,4.83,0.13
+3,23,utility classes,6.02,0.33
+3,24,shadcn ui,7.61,0.79
+3,25,light dark,5.54,0.25
+3,26,next js app,8.91,1.32
+3,27,js app,8.98,1.36
+3,28,styling tailwind,6.27,0.44
+3,29,js app router,8.38,1.16
+3,30,html css,6.46,0.51
+4,1,pull request,17.09,1.76
+4,2,conventional commits,14.17,1.17
+4,3,commit messages,15.26,2.1
+4,4,commit message,13.34,1.45
+4,5,the pr,14.33,2.51
+4,6,the commit,12.27,1.64
+4,7,the branch,12.05,1.9
+4,8,the repo,20.69,7.21
+4,9,push to,11.35,1.9
+4,10,this repo,16.89,5.12
+4,11,the release,9.47,1.15
+4,12,pull requests,8.62,1.1
+4,13,github release,6.42,0.41
+4,14,commit and,8.86,1.3
+4,15,commit pull request,4.63,0.14
+4,16,commit pull,4.68,0.14
+4,17,never commit,11.81,3.09
+4,18,conventional commit,5.7,0.36
+4,19,request guidelines,4.66,0.16
+4,20,pull request guidelines,4.66,0.16
+4,21,test and development,4.57,0.15
+4,22,and push,7.85,1.1
+4,23,the github,8.64,1.46
+4,24,coding style naming,4.58,0.16
+4,25,project structure module,4.55,0.16
+4,26,guidelines project structure,4.31,0.13
+4,27,structure module organization,4.55,0.17
+4,28,branch and,8.0,1.24
+4,29,the version,8.36,1.44
+4,30,repository guidelines project,4.31,0.15
+5,1,environment variables,17.44,3.29
+5,2,api key,11.54,1.85
+5,3,mcp server,10.3,2.18
+5,4,env vars,9.31,1.8
+5,5,the server,10.28,2.61
+5,6,provides guidance to,11.83,3.63
+5,7,file provides guidance,11.87,3.69
+5,8,ai code when,11.3,3.32
+5,9,code when working,11.6,3.53
+5,10,with code in,11.58,3.53
+5,11,code claude,11.39,3.41
+5,12,this file provides,12.17,3.94
+5,13,claude code claude,11.32,3.37
+5,14,working with code,11.56,3.53
+5,15,guidance to claude,11.26,3.34
+5,16,to claude code,11.54,3.52
+5,17,file provides,12.21,3.98
+5,18,ai code,11.46,3.48
+5,19,guidance to,11.91,3.81
+5,20,provides guidance,12.01,3.88
+5,21,code claude ai,11.14,3.31
+5,22,claude ai code,11.12,3.31
+5,23,api keys,9.81,2.48
+5,24,claude ai,11.6,3.64
+5,25,code in this,11.72,3.78
+5,26,when working with,12.18,4.17
+5,27,working with,13.63,5.5
+5,28,code when,12.16,4.47
+5,29,with code,12.36,4.71
+5,30,claude code,18.68,10.14
+6,1,unless the,30.14,7.0
+6,2,the smallest,14.62,1.79
+6,3,unless the user,17.43,3.58
+6,4,the user explicitly,16.29,3.86
+6,5,preserve the,11.9,1.72
+6,6,user explicitly,16.73,4.36
+6,7,inspect the,12.08,1.93
+6,8,before changing,11.14,1.75
+6,9,the task,19.37,7.14
+6,10,not claim,7.89,0.74
+6,11,before editing,10.2,1.64
+6,12,the repository,14.52,4.03
+6,13,do not claim,7.29,0.59
+6,14,evidence and,8.38,0.97
+6,15,do not add,15.3,4.77
+6,16,not add,15.68,5.12
+6,17,the requested,8.97,1.33
+6,18,the current,27.01,14.4
+6,19,explicitly asks,10.75,2.33
+6,20,behavior and,8.51,1.29
+6,21,unless explicitly,10.45,2.31
+6,22,the relevant,16.29,6.23
+6,23,tests and,10.89,2.95
+6,24,user explicitly asks,9.34,2.05
+6,25,explicitly requested,7.85,1.42
+6,26,asks for,11.9,3.93
+6,27,not create,10.24,2.98
+6,28,explicitly asks for,6.74,1.11
+6,29,an explicit,11.61,4.12
+6,30,not treat,6.22,0.9
+7,1,the plan,14.28,2.48
+7,2,acceptance criteria,12.62,1.91
+7,3,proceed to,9.94,1.18
+7,4,read the,28.06,13.79
+7,5,before proceeding,12.51,2.6
+7,6,wait for,15.3,4.62
+7,7,ask the,18.17,6.85
+7,8,stop and,14.56,4.69
+7,9,ask the user,15.25,5.42
+7,10,in parallel,10.01,2.52
+7,11,each task,5.59,0.56
+7,12,write the,14.09,5.67
+7,13,present the,8.78,2.05
+7,14,the task,15.94,7.23
+7,15,and ask,11.7,4.0
+7,16,not proceed,6.36,0.93
+7,17,do not proceed,6.11,0.87
+7,18,check if,11.2,3.92
+7,19,the current,23.67,14.46
+7,20,and stop,8.52,2.23
+7,21,the issue,8.52,2.31
+7,22,check for,14.81,7.09
+7,23,the spec,8.08,2.09
+7,24,the orchestrator,6.3,1.18
+7,25,file paths,8.24,2.37
+7,26,run the,20.92,12.82
+7,27,edge cases,11.55,4.76
+7,28,root cause,7.82,2.14
+7,29,plan file,3.58,0.21
+7,30,to phase,4.54,0.5

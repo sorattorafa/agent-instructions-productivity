@@ -1,0 +1,5 @@
+{
+ "model": "claude-opus-5-5",
+ "date": "2026-11-16",
+ "note": "independent agent runs, one per chunk of the input (files in chunks/), each given PROMPT.md and its chunk only; ids 1-344 (Task 1) and 1-200 (Task 2) were labelled first, the rest in a second round with the same instruction"
+}
